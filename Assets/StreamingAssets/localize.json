@@ -1,0 +1,33 @@
+{
+    "items": [
+      {
+        "key": "start",
+        "value": {
+          "fr": "Commencer",
+          "en": "Start"
+        }
+      },
+      {
+        "key": "online",
+        "value": {
+          "fr": "En Ligne",
+          "en": "Online"
+        }
+      },
+      {
+        "key": "tuto",
+        "value": {
+          "fr": "Tutoriel",
+          "en": "Tutorial"
+        }
+      },
+      {
+        "key": "quit",
+        "value": {
+          "fr": "Quitter",
+          "en": "Exit"
+        }
+      }
+    ]
+  }
+  
